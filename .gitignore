@@ -2,3 +2,5 @@ dvs-asp-net-core-mvc/bin/
 dvs-asp-net-core-mvc/Client/node_modules/.bin/atob
 dvs-asp-net-core-mvc/Client/node_modules/
 dvs-asp-net-core-mvc/obj/
+.vs/
+dvs-asp-net-core-mvc/wwwroot/dist/
